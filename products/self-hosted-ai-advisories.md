@@ -59,7 +59,7 @@ A curated list of security advisories for self-hosted AI applications, mapped to
 A correction to an earlier version of this page (2026-10-14 01:20Z): it listed 9 advisories as missing from the feed without saying that 8 of them were already covered by version range. That was corrected the same day.
 
 ## Access
-- **Raw file, free and Apache-2.0 licensed:** https://github.com/munimv2/ai-stack-advisories/blob/main/advisories.json
+- **Raw file, free and Apache-2.0 licensed:** https://github.com/munimtechnologies/ai-stack-advisories/blob/main/advisories.json
 - **Apify Actor:** https://apify.com/munim-inc/ai-stack-advisories. Give it your app versions and it returns the advisories that affect them.
 - **GitHub Action:** `action.yml` in the same repository, for checking a stack in CI. The data ships with each release, so use the newest release tag.
 - **Freshness check:** `check_freshness.py` in the same repository, described above.
