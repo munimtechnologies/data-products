@@ -3,8 +3,8 @@
 These terms cover the datasets listed in this repository. For a paid order, the written order agreed with Munim, Inc. takes precedence over this page.
 
 ## Open datasets
-- The self-hosted AI stack vulnerability feed (advisories.json in [munimv2/ai-stack-advisories](https://github.com/munimv2/ai-stack-advisories)) is released under the MIT License, Copyright (c) 2026 Munim, Inc.
-- You may use, copy, modify and redistribute it, including commercially, as long as you keep the MIT notice.
+- The self-hosted AI stack vulnerability feed (advisories.json in [munimv2/ai-stack-advisories](https://github.com/munimv2/ai-stack-advisories)) is released under the Apache License 2.0, Copyright (c) 2026 Munim, Inc.
+- You may use, copy, modify and redistribute it, including commercially, as long as you keep the Apache-2.0 license and notices.
 
 ## Custom datasets
 - Each custom dataset comes with a written order. The order states the scope, delivery format, update schedule, price, and the licence you receive. By default that licence is non-exclusive, for use inside your organization.
